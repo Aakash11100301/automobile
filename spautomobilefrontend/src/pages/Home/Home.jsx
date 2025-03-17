@@ -26,8 +26,8 @@ const Home = () => {
       {/* Hero Section */}
       <section className="relative bg-cover bg-center py-20" style={{ backgroundImage: car1 }}>
         <div className="container mx-auto text-center text-white">
-        <h1 className="text-4xl font-bold text-white bg-blue-500 p-4">World Class Car Services</h1>
-          <p className="mt-4 text-lg">Your trusted partner in car maintenance</p>
+        <h1 className="text-4xl font-bold text-black bg-blue-500 p-4">World Class Car Services</h1>
+          <p className="mt-4 text-lg text-gray-600">Your trusted partner in car maintenance</p>
         </div>
       </section>
 
